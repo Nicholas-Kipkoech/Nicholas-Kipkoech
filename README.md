@@ -6,7 +6,7 @@
 
 <!--Gif-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Heloo+there%2C+I+am+Tepela;A+software+Developer+based+in+Nairobi;Community+lover+and+open+source;Hit+me+up%2C+I'd+love+to+work+with+you&font=Fira%20Code&center=true&width=480&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Helloo+there%2C+I+am+Nicholas;A+software+Developer+based+in+Nairobi;Community+lover+and+open+source;Hit+me+up%2C+I'd+love+to+work+with+you&font=Fira%20Code&center=true&width=480&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
 </p>
 
 <!--Socials-->
@@ -19,6 +19,6 @@
  <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=nicholas-kipkoech&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankaire&langs_count=8&layout=compact&theme=tokyonight&hide=html,css,ejs,php,C,vue,hack,typescript,jupyter%20notebook,python,shell,c%2B%2B"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-kipkoech&langs_count=8&layout=compact&theme=tokyonight&hide=html,css,ejs,php,C,vue,hack,typescript,jupyter%20notebook,python,shell,c%2B%2B"/></td>
   </tr>   
 </table>
