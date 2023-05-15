@@ -1,3 +1,4 @@
+<a target="blank" href="https://profile-counter.glitch.me/Nicholas-Kipkoech/count.svg"><p align="center">View Count<br><br> <img src="https://profile-counter.glitch.me/Nicholas-Kipkoech/count.svg" /></a>
 <h3 align="center">
  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="50px"> 
  Welcome to Nicholas Kipkoech's profile!
