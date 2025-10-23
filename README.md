@@ -23,11 +23,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - Open-source contributions.
 - Any tech-related topic!
 
-## 📫 How to Reach Me
-
-- **Email**: [nickey968@gmail.com](mailto:nickey968@gmail.com)
-- **LinkedIn**: [[linkedin.com/in/nicholas-kipkoech](https://www.linkedin.com/in/nicholas-kipkoech-7a3850282/)]
-
 ## ⚡ Fun Fact
 
 - I love hiking and exploring nature 🏞️.
